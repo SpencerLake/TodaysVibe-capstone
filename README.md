@@ -1,4 +1,4 @@
-#TODAY'S VIBE
+# TODAY'S VIBE
 
 ## IDEA
 Web application that allows a user to create a list of activities or "Vibes" they like to do that will be linked to a location and times of operation making it quicker and easier for the user to see if their desired activity is possible to do at the moment, or see when the activity will be possible to do.
